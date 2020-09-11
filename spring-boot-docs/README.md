@@ -31,7 +31,7 @@ GitHub 上有关 Spring 的项目：[https://github.com/cwiki-us-spring-guides](
 
 ![](https://cdn.ossez.com/img/cwikius/cwikius-qr-wechat-search-w400.png)
 
-### Spring Boot 文档和手册快速导航
+## Spring Boot 文档和手册快速导航
 
 在下面的表格中，我们列出了一些比较有用的 String Boot 教程的导航，在我们文档的整理中，也参考了一些这些文档。
 
