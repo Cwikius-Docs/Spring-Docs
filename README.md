@@ -1,1 +1,3 @@
-# spring-boot-docs
+# Headline
+
+> An awesome project.
