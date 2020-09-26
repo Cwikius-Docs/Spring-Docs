@@ -1,6 +1,6 @@
-# Spring Boot 文档和手册（中文）
+# Spring 文档和手册（中文）
 
-欢迎来到 Spring Boot 的空间
+欢迎来到 Spring 文档和手册的空间
 
 因为最近项目的工作需要，要求使用 Spring Boot 来对项目进行微型化。
 
@@ -22,8 +22,12 @@ GitHub 上有关 Spring 的项目：[https://github.com/cwiki-us-spring-guides](
 | QQ 交流群 Spring | 15186112 |
 | 社区论坛 | [https://www.ossez.com/c/open-source/Spring/20](https://www.ossez.com/c/open-source/Spring/20) |
 
+### 微信及公众平台
+我们建议您通过社区论坛来和我们进行沟通，请关注我们的微信公众号。
 
-### Spring Boot 文档和手册快速导航
+![](https://cdn.ossez.com/img/cwikius/cwikius-qr-wechat-search-w400.png)
+
+## Spring 文档和手册快速导航
 
 在下面的表格中，我们列出了一些比较有用的 String Boot 教程的导航，在我们文档的整理中，也参考了一些这些文档。
 
