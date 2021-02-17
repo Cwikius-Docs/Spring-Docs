@@ -1,6 +1,7 @@
-# Spring Data JPA 文档和手册（中文）
+# Spring Data JPA
+Spring Data JPA 的文档和手册（中文）是从下面表格中的源代码进行编译的。
 
-Spring Data JPA 有关的快速参考链接请参考下面的表格：
+Spring Data JPA 已经编译并且部署的文档和源代码请参考下面的表格：
 
 | 网站名称  | URL  | NOTE  |
 |---|---|---|
@@ -10,6 +11,7 @@ Spring Data JPA 有关的快速参考链接请参考下面的表格：
 
 
 ## 从源代码编译 Reference 和 API
+
 
 ## 联系我们
 请单击链接：[联系我们](CONTACT.md) 来和我们取得联系。
