@@ -2,7 +2,7 @@
   - [文档项目介绍](README.md)
 
 - Spring Boot
-  - [Spring Boot 文档和手册首页](spring-boot-docs/README.md)
+  - [Spring Boot 文档和手册首页](spring-boot/spring-boot.md)
 - Spring Data    
   - [Spring Data JPA 文档和手册首页](spring-data/spring-data-jpa.md)
 
