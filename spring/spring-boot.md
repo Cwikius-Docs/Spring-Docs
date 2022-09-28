@@ -1,4 +1,4 @@
-# Spring Boot 文档和手册（中文）
+## Spring Boot
 
 欢迎来到 Spring Boot 的空间
 
@@ -15,7 +15,7 @@
 
 GitHub 上有关 Spring 的项目：[https://github.com/cwiki-us-spring-guides](https://github.com/cwiki-us-spring-guides)
 
-## Spring Boot 文档和手册快速导航
+### Spring Boot 文档和手册快速导航
 
 在下面的表格中，我们列出了一些比较有用的 String Boot 教程的导航，在我们文档的整理中，也参考了一些这些文档。
 
@@ -26,5 +26,5 @@ GitHub 上有关 Spring 的项目：[https://github.com/cwiki-us-spring-guides](
 | gitbooks  | [https://cwiki-us.gitbook.io/spring-boot-reference-guide-zh/](https://cwiki-us.gitbook.io/spring-boot-reference-guide-zh/)  | 手册的简体中文 Git 翻译版本，可能会被要求注册 GitBook 的用户账户。  |
 | 看云  | [https://www.kancloud.cn/honeymoose/spring-boot-reference-guide](https://www.kancloud.cn/honeymoose/spring-boot-reference-guide)  | 手册的简体中文 Git 翻译版本  |
 
-## 联系我们
+### 联系我们
 请单击链接：[联系我们](CONTACT.md) 来和我们取得联系。
