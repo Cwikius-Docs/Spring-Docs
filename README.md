@@ -19,9 +19,9 @@ GitHub 上有关 Spring 的项目：[https://github.com/cwiki-us-spring-guides](
 
 在这里对原作者表示感谢。
 
-| 网站名称  | URL  | NOTE  |
-|---|---|---|
-| gitbooks  | [https://cwiki-us.gitbook.io/spring-boot-reference-guide-zh/](https://cwiki-us.gitbook.io/spring-boot-reference-guide-zh/)  | 手册的简体中文 Git 翻译版本，可能会被要求注册 GitBook 的用户账户。  |
-| 看云  | [https://www.kancloud.cn/honeymoose/spring-boot-reference-guide](https://www.kancloud.cn/honeymoose/spring-boot-reference-guide)  | 手册的简体中文 Git 翻译版本  |
+| 网站名称     | URL                                                                                                                              | NOTE                                     |
+|----------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| gitbooks | [https://cwiki-us.gitbook.io/spring-boot-reference-guide-zh/](https://cwiki-us.gitbook.io/spring-boot-reference-guide-zh/)       | 手册的简体中文 Git 翻译版本，可能会被要求注册 GitBook 的用户账户。 |
+| 看云       | [https://www.kancloud.cn/honeymoose/spring-boot-reference-guide](https://www.kancloud.cn/honeymoose/spring-boot-reference-guide) | 手册的简体中文 Git 翻译版本                         |
 
 [](CONTACT.md ':include')
